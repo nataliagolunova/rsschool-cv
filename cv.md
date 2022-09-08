@@ -1,21 +1,24 @@
 # Natalia Golunova
+## programmer-developer
 ****
-![photo](/photo.png "Фото")
-#### Contact yurlova.97@inbox.ru , +79535503010 , Discord-Natalia Golunova (@nataliagolunova)
+![photo](../img/photo_mini.png "Фото")
+#### Contact 
+Phone: +79535503010
+Email: yurlova.97@inbox.ru
+Discord: Natalia (@nataliagolunov)
 *********
 *********
 
 ## About me.
 *********
-Education: higher, 2015-2019year, Arzamas Polytechnic Institute.
-Major: software engineer.
+Education: higher, 2015-2019year, Arzamas Polytechnic Institute, speciality: software engineer.
 
 ## Experience. 
 *********
-    Period    |      Job title       |   Responsibility 
---------------|:--------------------:|----------------- 
-2017-2019year |       teacher        |I taught arduino programming for teenagers.
-2019-now      | programmer-developer |I developed progremmer for factory.
+    Period      |      Job title       |             Responsibility 
+:--------------:|:--------------------:|:------------------------------------------: 
+2017-2019 year  |       teacher        |I taught arduino programming for teenagers.
+2019-now        | programmer-developer |I developed progremmer for factory.
 
 At three years work a programmer-developer, I developed 6 projects:
 *********
@@ -26,7 +29,7 @@ At three years work a programmer-developer, I developed 6 projects:
 * 2 programs for testing devices.
 
 Since 2021, I started to study frontend (html, css, javascript).
-I study an online course on creating a landing site. I was learning HTML5, CSS, Bootstrap, JavaScript, JQuery. My website from the course: [Site](https://nataliagolunova.github.io/Lending/index.html)
+I study an online course on creating a landing site. I was learning HTML5, CSS, Bootstrap, JavaScript, JQuery. [My website from the course.](https://nataliagolunova.github.io/Lending/index.html)
 
 ## Immediate goals: raise my level of programming in the frontend, switch to remote work and increase your income.
 
@@ -51,4 +54,4 @@ I find fault with the little things, with the visual, with the comfortable work 
         });
     }); 
 ```
-## English level: elementary. I study English in the duolingo app and communicate in English in speaky.
+## English level: elementary. I study English in the "Duolingo" app and communicate in English in "Speaky".
