@@ -1,6 +1,6 @@
 # Natalia Golunova
 ****
-![photo](/img/photo.png "Фото")
+![photo](/photo.png "Фото")
 #### Contact yurlova.97@inbox.ru , +79535503010 , Discord-Natalia Golunova (@nataliagolunova)
 *********
 *********
