@@ -1,1 +1,1 @@
-https://nataliagolunova.github.io//rsschool-cv/cv.md
+https://nataliagolunova.github.io//rsschool-cv/rsschool-cv-html/index.html
