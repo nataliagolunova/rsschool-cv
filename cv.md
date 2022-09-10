@@ -1,7 +1,7 @@
 # Natalia Golunova
 ## programmer-developer
 ****
-![photo](../img/photo_mini.png "Фото")
+![photo](./img/photo_mini.png "Фото")
 #### Contact 
 Phone: +79535503010
 Email: yurlova.97@inbox.ru
@@ -36,7 +36,7 @@ I study an online course on creating a landing site. I was learning HTML5, CSS, 
 ## Strengths:
 I find fault with the little things, with the visual, with the comfortable work of the user and the developer, I can learn a new programming language in a short time, I can find information in Google.
 
-## Programming languages ​​and frameworks: delphi, sql, HTML5, CSS, Bootstrap, JavaScript, JQuery.
+## Programming languages and frameworks: delphi, sql, HTML5, CSS, Bootstrap, JavaScript, JQuery.
 
 
 ## Code example:
