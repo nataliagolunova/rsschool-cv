@@ -146,11 +146,11 @@ nav {
     line-height: 400%;
     background-color: #adccff3b;
 }
-.head-contact>p>svg {
+.head-contact>ul>li>svg {
     width: 26px; 
     height: 26px; 
 }
-.head-contact>p, 
+.head-contact>ul, 
 main>section>p,  
 ul>li {
     font-style: italic;
@@ -189,7 +189,7 @@ main>section>hr {
 
 main>section>p, 
 ul>li { 
-    line-height: 140%;
+    line-height: 200%;
     list-style-type: none;
 }
 .main-education>h2::before, 
@@ -284,7 +284,7 @@ footer>a>p {
     main {
         margin: 3% 2% 0 2%;
     }
-    .head-contact {
+    .head-contact>ul {
         line-height: 250%;
     }
 }
@@ -294,7 +294,7 @@ footer>a>p {
     main {
         margin: 3% 6% 0 6%;
     }
-    .head-contact {
+    .head-contact>ul {
         line-height: 250%;
     }
 }
